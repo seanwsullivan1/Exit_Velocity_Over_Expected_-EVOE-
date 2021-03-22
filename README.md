@@ -1,5 +1,5 @@
 # Exit_Velocity_Over_Expected_-EVOE-
-Brief code to query Baseball Savant for Statcast data and model to predict exit velocity. 
+Brief code to query Baseball Savant for Statcast data and model to predict exit velocity. Code for k-Means clustering is also included. 
 
 
 For more information on the pybaseball package, please consult the repository (https://github.com/jldbc/pybaseball). 
